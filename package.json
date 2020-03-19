@@ -1,0 +1,23 @@
+{
+  "name": "node_basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azar2612/Node-basics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azar2612/Node-basics/issues"
+  },
+  "homepage": "https://github.com/azar2612/Node-basics#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
